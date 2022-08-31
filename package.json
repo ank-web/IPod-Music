@@ -1,6 +1,6 @@
 {
-  "homepage": "iPod",
   "name": "ipod-classic",
+  "homepage": "https://ank-web.github.io/IPod-Music/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
